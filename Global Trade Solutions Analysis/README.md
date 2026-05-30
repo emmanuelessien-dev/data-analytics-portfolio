@@ -196,7 +196,7 @@ The dashboard is structured across three analytical sections: **Sales Performanc
 
 ### Dashboard Screenshot
 
-![Global Trade Solutions Dashboard](assets/gts_dashboard.png)
+![Global Trade Solutions Dashboard](Dashboard/Trade_Solutions.jpg)
 
 > *Interactive Power BI dashboard — use slicers to filter by Year, Country, Category, Product, Customer, and Company*
 
