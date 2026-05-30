@@ -1,8 +1,7 @@
 """
 ABS Retail — Full Data Analysis & Forecast Script
 ==================================================
-Author     : [Your Name]
-Project    : Data Analytics Fellowship Capstone
+Project    : Data Analytics Project
 Dataset    : ABS_RETAIL.xlsx (5,000 orders, 2021–2024)
 Tools      : Python, pandas, numpy, matplotlib
 
